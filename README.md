@@ -1,2 +1,2 @@
 # data structure assignment
-数据结构作业归档（未来技术班）
+同济大学数据结构作业归档（2024级）
