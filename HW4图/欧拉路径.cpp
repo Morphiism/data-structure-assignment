@@ -49,8 +49,7 @@ int main()
 	adj[1][3] = false;
 	adj[3][1] = false;
 
-	for (int i = 0; i < 5; i++)
-		dfs(i, 1, to_string(i), adj);
+	dfs(0, 1, "0", adj);
 
 	for (int i = 0; i < 5; i++)
 		delete[] adj[i];
